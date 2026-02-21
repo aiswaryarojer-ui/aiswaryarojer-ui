@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi 👋 I'm Aiswarya Rojer
 
-<!--
-**aiswaryarojer-ui/aiswaryarojer-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+💻 Junior DevOps Engineer  
+📍 Germany  
 
-Here are some ideas to get you started:
+### 🚀 Skills & Tools
+- Linux | Bash | Git
+- Docker & Containerization
+- AWS (EC2, IAM, S3, VPC)
+- CI/CD (GitHub Actions)
+- Terraform (Infrastructure as Code)
+- Kubernetes
+- Monitoring (Prometheus, Grafana)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 DevOps Projects
+🔹 Infrastructure as Code Deployment for Containerized Python Application  
+🔹 End-to-End CI/CD Pipeline on AWS  
+🔹 Kubernetes Deployment & Monitoring (with Terraform IaC)
+
+### 📫 Contact
+- Email: aiswaryarojer@gmail.com  
